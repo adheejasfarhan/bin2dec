@@ -16,4 +16,4 @@ Bonus features
 * User can enter a variable number of binary digits
 
 
-I want to build this app. I don't want you to build it for me. I am a beginner and this is my first project so guide me and give a roadmap on how i should implement this idea.
+
